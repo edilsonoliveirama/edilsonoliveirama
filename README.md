@@ -112,12 +112,10 @@ certifications:
 
 <div align="center">
 
-![Microsoft Azure](https://img.shields.io/badge/Azure_Security_Center-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 </div>
 
@@ -130,6 +128,7 @@ DevSecOps & Cloud Security    ████████████████�
 Azure (AZ-500/305/SC-300)     ████████████████████  100%
 AWS                           ████████████████░░░░   80%
 Google Cloud Platform         ████████████████░░░░   80%
+Oracle Cloud Infrastructure   ████████████░░░░░░░░   60%
 Cloudflare                    ████████████████░░░░   80%
 Containers (Docker/K8s)       ██████████████████░░   90%
 AI Agents & LLM Automation    ██████████████████░░   90%
